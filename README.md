@@ -5,7 +5,7 @@
 ChitFundMate is a powerful Flutter-based mobile application designed to digitalize and streamline the traditional process of rotary funds, commonly known as chit funds. This app simplifies the management, tracking, and transparency of chit fund operations, providing users with an intuitive and secure platform to manage their financial contributions.
 
 
-📝 Features
+# 📝 Features
 
 User-Friendly Interface: Designed with simplicity in mind, ensuring an easy-to-navigate experience for all users.
 Real-Time Tracking: Keep track of all your chit fund activities, contributions, and returns in real-time.
