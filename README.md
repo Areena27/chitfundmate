@@ -7,20 +7,20 @@ ChitFundMate is a powerful Flutter-based mobile application designed to digitali
 
 📝 Features
 
-User-Friendly Interface: Designed with simplicity in mind, ensuring an easy-to-navigate experience for all users.
-Real-Time Tracking: Keep track of all your chit fund activities, contributions, and returns in real-time.
-Secure Transactions: Integrated with secure payment gateways to ensure that all transactions are safe and encrypted.
-Automated Notifications: Receive timely alerts and reminders about due payments, upcoming bids, and other important updates.
-Detailed Reports: Generate comprehensive reports for all your chit fund activities, ensuring complete transparency and accountability.
-Group Management: Easily create, join, and manage chit fund groups with friends, family, or colleagues.
+- User-Friendly Interface: Designed with simplicity in mind, ensuring an easy-to-navigate experience for all users.
+- Real-Time Tracking: Keep track of all your chit fund activities, contributions, and returns in real-time.
+- Secure Transactions: Integrated with secure payment gateways to ensure that all transactions are safe and encrypted.
+- Automated Notifications: Receive timely alerts and reminders about due payments, upcoming bids, and other important updates.
+- Detailed Reports: Generate comprehensive reports for all your chit fund activities, ensuring complete transparency and accountability.
+- Group Management: Easily create, join, and manage chit fund groups with friends, family, or colleagues.
 
 
 ## Getting Started
 
 Prerequisites
-Flutter SDK: Ensure that you have Flutter installed on your machine. You can download it from the official Flutter website.
-Android Studio/VS Code: Use any preferred code editor that supports Flutter development.
-Device/Emulator: A physical device or an emulator configured for testing.
+- Flutter SDK: Ensure that you have Flutter installed on your machine. You can download it from the official Flutter website.
+- Android Studio/VS Code: Use any preferred code editor that supports Flutter development.
+- Device/Emulator: A physical device or an emulator configured for testing.
 
 
 A few resources to get you started if this is your first Flutter project:
